@@ -1,2 +1,2 @@
-# yuka.github.io
+# neverpause.github.io
 WEbpage Practice Javascript
