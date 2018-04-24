@@ -4,6 +4,16 @@
   <title> HTML LEREN </title>
 </head>
 <body>
+<p>Click button to see where this is going</p>
 
+<button onclick="myFunction()">BEcome my Slave</button>
+
+<script>
+function myFunction() {
+    var myWindow = window.open("", "", "width=400,height=200");
+    myWindow.document.write("And So it begins");
+    myWindow.focus();
+}
+</script>
 </body>
 </html>
